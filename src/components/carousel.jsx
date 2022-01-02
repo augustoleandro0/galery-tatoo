@@ -4,7 +4,7 @@ import "../styles/carousel.module.css"
 import {useState} from 'react'
 import Image from 'next/image'
 
-export default function carousel (props) {
+export default function Carousel () {
   const [currentSlide, setCurrentSlide] = useState(0)
   const [sliderRef, slider] = useKeenSlider({
     initial: 0,
