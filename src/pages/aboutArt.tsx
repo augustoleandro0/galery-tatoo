@@ -14,7 +14,7 @@ function AboutArt({ children }: AboutArtProps) {
     <>
       <MenuMobile />
       <Sidebar />
-      <h1 className={`md:ml-80 md:mt-10 text-green-500 text-6xl`}>Sobre Artes</h1>
+      <h1 className={`md:ml-80 md:mt-10 xs:mt-24 xs:text-center text-green-500 text-6xl`}>Sobre Artes</h1>
       <article className={`md:ml-52 sm:m-0 h-full flex xs:flex-col md:relative p-20`}>
 
         <div className={`w-full mr-10 xs:mr-28 `}>
