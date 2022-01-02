@@ -15,8 +15,8 @@ export default function Carousel () {
 
   return (
     <>
-      <div className="navigation-wrapper md:ml-52 sm:m-0  ">
-        <div ref={sliderRef} className="keen-slider mx-48 ">
+      <div className="navigation-wrapper  md:ml-52 sm:m-0  ">
+        <div ref={sliderRef} className="keen-slider text-center xs:m-12">
           <div className="keen-slider__slide number-slide1 w-10">
               <Image src="/img/244017590_845709679477616_3343649655721522695_n.webp.jpg" className={``} width={680} height={680} alt="" />  
           </div>
@@ -35,14 +35,16 @@ export default function Carousel () {
         </div>
         {slider && (
           <>
-            <ArrowLeft
-              onClick={(e) => e.stopPropagation() || slider.prev()}
-              disabled={currentSlide === 0}
-            />
-            <ArrowRight
-              onClick={(e) => e.stopPropagation() || slider.next()}
-              disabled={currentSlide === slider.details().size - 1}
-            />
+           <div>
+              <ArrowLeft
+                  onClick={(e) => e.stopPropagation() || slider.prev()}
+                  disabled={currentSlide === 0}
+                />
+                <ArrowRight
+                  onClick={(e) => e.stopPropagation() || slider.next()}
+                  disabled={currentSlide === slider.details().size - 1}
+                />
+           </div>
           </>
         )}
       </div>
@@ -70,7 +72,7 @@ function ArrowLeft(props) {
   return (
     <svg
       onClick={props.onClick}
-      className={`${"arrow arrow--left" + disabeld} w-10 -mt-32 z-999`}
+      className={`${"arrow arrow--left" + disabeld} w-10 ml-2 -mt-32 z-999`}
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
     >

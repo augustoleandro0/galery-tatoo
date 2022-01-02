@@ -2,7 +2,7 @@ import Image from 'next/image'
 import grid from '../../styles/grid.module.css';
 export default function Main() {
     return (
-        <main className={`${grid.main}md:ml-52 sm:m-0 h-full text-center md:relative `}>
+        <main className={`md:ml-52 sm:m-0 h-full text-center md:relative `}>
             <div className={grid.template}>
                 <div className={`${grid.item1} w-50 col-span-1 -mt-12 `}>
                     <Image src="/img/138328337_202273134929366_108562379215393360_n.jpg" className={` ${grid.image} rounded-md m-10  `} width={1080} height={1080} alt="" />

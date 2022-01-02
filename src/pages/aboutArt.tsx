@@ -17,7 +17,7 @@ function AboutArt({ children }: AboutArtProps) {
       <h1 className={`md:ml-80 md:mt-10 text-green-500 text-6xl`}>Sobre Artes</h1>
       <article className={`md:ml-52 sm:m-0 h-full flex xs:flex-col md:relative p-20`}>
 
-        <div className={`w-full mr-10 xs:mx-28`}>
+        <div className={`w-full mr-10 xs:mr-28 `}>
           <Image className={`rounded-md`} src="/img/202889356_783010355692131_4716505675495174429_n.jpg" width={300} height={400} alt="" />
         </div>
         <div>
