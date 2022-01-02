@@ -4,6 +4,7 @@ import Carousel from '../components/carousel';
 import MenuMobile from '../components/menuMobile';
 import Sidebar from '../components/sidebar';
 
+
 interface AboutArtProps {
   children?: ReactNode;
 }

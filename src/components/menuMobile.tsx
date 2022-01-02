@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { useState } from 'react'
 
-import Styled from  '../styles/border.module.css'
+import Styled from  '../../styles/border.module.css'
 
 import {facebook,twitter,tiktok} from './icons'
 

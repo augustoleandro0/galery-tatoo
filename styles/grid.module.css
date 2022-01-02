@@ -27,12 +27,18 @@
 
 @media only screen and (max-width: 558px){
     .template {
-        display: grid;
+        display: flex;
         position: relative;
         margin-top: 110px;
-        grid-template-columns: 1fr 1fr 1fr;
-        row-gap: 15px;
-        column-gap: 10px;
+        flex-direction: column;
     }
+    .item{
+        margin-top: 5px;
+    }
+    .item1, .item3, .item6,.item7,.item9,.item10{
+        margin-top: 0px;
+    }
+
+    
     
 }
