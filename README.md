@@ -3,7 +3,7 @@ Meu primero Site feito em Next js com deploy
 -https://galery-tatoo.vercel.app
 
 ## Desktop version
-![alt text](https://github.com/augustoleandro0/galery-tatoo/public/screenshots/galery-tatoo.vercel.app.85ce5fa67c54.png)
+![galery-tatoo vercel app 85ce5fa67c54](https://user-images.githubusercontent.com/45572646/151468762-431ebd45-9631-4ef2-9ebb-d71bf55c9586.png)
 
 ## Mobile version
 
