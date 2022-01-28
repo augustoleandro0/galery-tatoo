@@ -1,3 +1,9 @@
+Meu primero Site wem em Next js 
+
+-https://galery-tatoo.vercel.app
+
+<img src=”/C:/Users/dwner/OneDrive/Imagens/Vivaldi-Captures/galery-tatoo.vercel.app.85ce5fa67c54.png”>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
