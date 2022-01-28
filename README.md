@@ -1,4 +1,4 @@
-Meu primero Site feito em Next js com deploy
+Meu primero site front end feito em Nextjs com deploy
 
 -https://galery-tatoo.vercel.app
 
@@ -7,7 +7,7 @@ Meu primero Site feito em Next js com deploy
 
 ## Mobile version
 
-![alt text](https://github.com/augustoleandro0/galery-tatoo/public/screenshots/galery-tatoo.vercel.app.0115b4e5d2b9.png)
+![galery-tatoo vercel app 0115b4e5d2b9](https://user-images.githubusercontent.com/45572646/151469095-7f2ef7e7-8224-4a87-9fd6-63fc31ccbcc2.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
