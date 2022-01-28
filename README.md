@@ -3,11 +3,11 @@ Meu primero Site feito em Next js com deploy
 -https://galery-tatoo.vercel.app
 
 ## Desktop version
-<img src=”galery-tatoo/public/screenshots/galery-tatoo.vercel.app.85ce5fa67c54.png”>
+![alt text](https://github.com/augustoleandro0/galery-tatoo/public/screenshots/galery-tatoo.vercel.app.85ce5fa67c54.png)
 
 ## Mobile version
 
-<img src=”galery-tatoo/public/screenshots/galery-tatoo.vercel.app.0115b4e5d2b9.png”>
+![alt text](https://github.com/augustoleandro0/galery-tatoo/public/screenshots/galery-tatoo.vercel.app.0115b4e5d2b9.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
